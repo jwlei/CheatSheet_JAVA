@@ -49,4 +49,45 @@ Now let us do discuss the differences between the Instance variable Vs. the Stat
     Each object will have its copy of the instance variable, whereas We can only have one copy of a static variable per class irrespective of how many objects we create.
     Changes made in an instance variable using one object will not be reflected in other objects as each object has its own copy of the instance variable. In the case of static, changes will be reflected in other objects as static variables are common to all objects of a class.
     We can access instance variables through object references, and Static Variables can be accessed directly using the class name.
+
+    Creating objects without a constructor
+     public static void main(String[] args) {
+
+        // Oppretter objekt med konstruktør
+        var ansatt = new Ansatt();
+
+        // Oppretter nye objekter uten konstruktør (clone)
+        var atle = (Ansatt)ansatt.clone();
+        atle.setNavn("Atle Patle");
+        atle.setAlder(32);
+
+        var per = (Ansatt)ansatt.clone();
+        per.setNavn("Per Viskelær");
+        per.setAlder(30);
+
+        new ObjectOutputStream(new FileOutputStream("ansatt.obj"))
+                .writeObject(ansatt);
+
+        // Oppretter nytt objekt uten konstruktør (deserialisering)
+        var anne = (Ansatt)new ObjectInputStream(new FileInputStream("ansatt.obj"))
+                .readObject();
+
+        anne.setNavn("Anne Ananas");
+        anne.setAlder(40);
+
+        // "munged" konstruktør, bruker ikke klassens egne konstruktører
+        // Dette eksempelet er ikke avhengig av eksisterende objekter
+        var ansattKlasse = ReflectionFactory.getReflectionFactory()
+                .newConstructorForSerialization(Ansatt.class);
+
+        var gunnar = (Ansatt)ansattKlasse.newInstance();
+
+        gunnar.setNavn("Gunnar");
+        gunnar.setAlder(23);
+
+        Arrays.asList(ansatt, per, atle, anne, gunnar)
+                .forEach(System.out::println);
+
+        System.out.println("\nAntall ganger konstruktører ble brukt: " + Ansatt.antallKjorteKonstruktorer);
+    }
  */
