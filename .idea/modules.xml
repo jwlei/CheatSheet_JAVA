@@ -2,8 +2,57 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/f25app/.mvn/.mvn.iml" filepath="$PROJECT_DIR$/../DAT108/f25app/.mvn/.mvn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/Bouncing Ball/Bouncing Ball.iml" filepath="$PROJECT_DIR$/../DAT108/Bouncing Ball/Bouncing Ball.iml" />
       <module fileurl="file://$PROJECT_DIR$/CheatSheet.iml" filepath="$PROJECT_DIR$/CheatSheet.iml" />
       <module fileurl="file://$PROJECT_DIR$/../CodeWars/CodeWars.iml" filepath="$PROJECT_DIR$/../CodeWars/CodeWars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/DAT108.iml" filepath="$PROJECT_DIR$/../DAT108/DAT108.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F01 - Hallo Threads/F01 - Hallo Threads.iml" filepath="$PROJECT_DIR$/../DAT108/F01 - Hallo Threads/F01 - Hallo Threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F02a - Ti tråder med navn/F02a - Ti tråder med navn.iml" filepath="$PROJECT_DIR$/../DAT108/F02a - Ti tråder med navn/F02a - Ti tråder med navn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F02b - Stoppe en tråd/F02b - Stoppe en tråd.iml" filepath="$PROJECT_DIR$/../DAT108/F02b - Stoppe en tråd/F02b - Stoppe en tråd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F02c - Synchronized/F02c - Synchronized.iml" filepath="$PROJECT_DIR$/../DAT108/F02c - Synchronized/F02c - Synchronized.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F03 - wait notify/F03 - wait notify.iml" filepath="$PROJECT_DIR$/../DAT108/F03 - wait notify/F03 - wait notify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F04 - Lock og Condition/F04 - Lock og Condition.iml" filepath="$PROJECT_DIR$/../DAT108/F04 - Lock og Condition/F04 - Lock og Condition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F05 - Traadsikkerhet/F05 - Traadsikkerhet.iml" filepath="$PROJECT_DIR$/../DAT108/F05 - Traadsikkerhet/F05 - Traadsikkerhet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F06 - Intro til lambda-uttrykk/F06 - Intro til lambda-uttrykk.iml" filepath="$PROJECT_DIR$/../DAT108/F06 - Intro til lambda-uttrykk/F06 - Intro til lambda-uttrykk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F07 - Last ned til timen/F07 - Last ned til timen.iml" filepath="$PROJECT_DIR$/../DAT108/F07 - Last ned til timen/F07 - Last ned til timen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F07 - Løsninger fra timen/F07 - Løsninger fra timen.iml" filepath="$PROJECT_DIR$/../DAT108/F07 - Løsninger fra timen/F07 - Løsninger fra timen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F08 - Last ned til timen/F08 - Last ned til timen.iml" filepath="$PROJECT_DIR$/../DAT108/F08 - Last ned til timen/F08 - Last ned til timen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F08 - Løsninger fra timen/F08 - Løsninger fra timen.iml" filepath="$PROJECT_DIR$/../DAT108/F08 - Løsninger fra timen/F08 - Løsninger fra timen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F09 - Last ned til timen/F09 - Last ned til timen.iml" filepath="$PROJECT_DIR$/../DAT108/F09 - Last ned til timen/F09 - Last ned til timen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F09 - Løsninger fra timen/F09 - Løsninger fra timen.iml" filepath="$PROJECT_DIR$/../DAT108/F09 - Løsninger fra timen/F09 - Løsninger fra timen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F11a - Registreringsskjema/F11a - Registreringsskjema.iml" filepath="$PROJECT_DIR$/../DAT108/F11a - Registreringsskjema/F11a - Registreringsskjema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F11b - HTML Input Demo/F11b - HTML Input Demo.iml" filepath="$PROJECT_DIR$/../DAT108/F11b - HTML Input Demo/F11b - HTML Input Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F11c - Faktorisering av primtall/F11c - Faktorisering av primtall.iml" filepath="$PROJECT_DIR$/../DAT108/F11c - Faktorisering av primtall/F11c - Faktorisering av primtall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F11c NY/F11c NY.iml" filepath="$PROJECT_DIR$/../DAT108/F11c NY/F11c NY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F11d - Input validation/F11d - Input validation.iml" filepath="$PROJECT_DIR$/../DAT108/F11d - Input validation/F11d - Input validation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F11e - Ufarliggjøring av brukerinput/F11e - Ufarliggjøring av brukerinput.iml" filepath="$PROJECT_DIR$/../DAT108/F11e - Ufarliggjøring av brukerinput/F11e - Ufarliggjøring av brukerinput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F12a PRG/F12a PRG.iml" filepath="$PROJECT_DIR$/../DAT108/F12a PRG/F12a PRG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F12b - Request Headere/F12b - Request Headere.iml" filepath="$PROJECT_DIR$/../DAT108/F12b - Request Headere/F12b - Request Headere.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F12d - Cookies/F12d - Cookies.iml" filepath="$PROJECT_DIR$/../DAT108/F12d - Cookies/F12d - Cookies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F15 - Passord/F15 - Passord.iml" filepath="$PROJECT_DIR$/../DAT108/F15 - Passord/F15 - Passord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F17 - Passord Embedded JPA/F17 - Passord Embedded JPA.iml" filepath="$PROJECT_DIR$/../DAT108/F17 - Passord Embedded JPA/F17 - Passord Embedded JPA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F17a - web.xml og initparams/F17a - web.xml og initparams.iml" filepath="$PROJECT_DIR$/../DAT108/F17a - web.xml og initparams/F17a - web.xml og initparams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F17b - JPA-greier/F17b - JPA-greier.iml" filepath="$PROJECT_DIR$/../DAT108/F17b - JPA-greier/F17b - JPA-greier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F21b - Skjemaobjekter Formbeans/F21b - Skjemaobjekter Formbeans.iml" filepath="$PROJECT_DIR$/../DAT108/F21b - Skjemaobjekter Formbeans/F21b - Skjemaobjekter Formbeans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/HalloTomee/HalloTomee.iml" filepath="$PROJECT_DIR$/../DAT108/HalloTomee/HalloTomee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/_Hallo_DAT108/_Hallo_DAT108.iml" filepath="$PROJECT_DIR$/../DAT108/_Hallo_DAT108/_Hallo_DAT108.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/f19a_Meldinger_uten_MVC/f19a_Meldinger_uten_MVC.iml" filepath="$PROJECT_DIR$/../DAT108/f19a_Meldinger_uten_MVC/f19a_Meldinger_uten_MVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/f19b_Meldinger_med_MVC/f19b_Meldinger_med_MVC.iml" filepath="$PROJECT_DIR$/../DAT108/f19b_Meldinger_med_MVC/f19b_Meldinger_med_MVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F23b - CurrCalc Stubbing/src/main/main.iml" filepath="$PROJECT_DIR$/../DAT108/F23b - CurrCalc Stubbing/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/f25app/src/main/main1.iml" filepath="$PROJECT_DIR$/../DAT108/f25app/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F21a - Webshop med JSP og MVC/src/main/main2.iml" filepath="$PROJECT_DIR$/../DAT108/F21a - Webshop med JSP og MVC/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F23c - CookieUtil SpringMocks/src/main/main3.iml" filepath="$PROJECT_DIR$/../DAT108/F23c - CookieUtil SpringMocks/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F23d - DeltagerForm DAOStub/src/main/main4.iml" filepath="$PROJECT_DIR$/../DAT108/F23d - DeltagerForm DAOStub/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F23a - BMI Testbarhet/src/main/main5.iml" filepath="$PROJECT_DIR$/../DAT108/F23a - BMI Testbarhet/src/main/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F13 - Last ned til timen/src/main/main6.iml" filepath="$PROJECT_DIR$/../DAT108/F13 - Last ned til timen/src/main/main6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F23c - CookieUtil SpringMocks/src/test/test.iml" filepath="$PROJECT_DIR$/../DAT108/F23c - CookieUtil SpringMocks/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F21a - Webshop med JSP og MVC/src/test/test1.iml" filepath="$PROJECT_DIR$/../DAT108/F21a - Webshop med JSP og MVC/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/f25app/src/test/test2.iml" filepath="$PROJECT_DIR$/../DAT108/f25app/src/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F23d - DeltagerForm DAOStub/src/test/test3.iml" filepath="$PROJECT_DIR$/../DAT108/F23d - DeltagerForm DAOStub/src/test/test3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F23b - CurrCalc Stubbing/src/test/test4.iml" filepath="$PROJECT_DIR$/../DAT108/F23b - CurrCalc Stubbing/src/test/test4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F23a - BMI Testbarhet/src/test/test5.iml" filepath="$PROJECT_DIR$/../DAT108/F23a - BMI Testbarhet/src/test/test5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAT108/F13 - Last ned til timen/src/test/test6.iml" filepath="$PROJECT_DIR$/../DAT108/F13 - Last ned til timen/src/test/test6.iml" />
     </modules>
   </component>
 </project>
