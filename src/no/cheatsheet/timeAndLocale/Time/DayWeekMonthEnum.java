@@ -1,4 +1,4 @@
-package no.cheatsheet.timeAndLocale;
+package no.cheatsheet.timeAndLocale.Time;
 
 public class DayWeekMonthEnum {
     public class DayOfWeek {

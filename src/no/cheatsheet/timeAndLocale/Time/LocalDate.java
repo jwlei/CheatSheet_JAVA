@@ -1,4 +1,4 @@
-package no.cheatsheet.timeAndLocale;
+package no.cheatsheet.timeAndLocale.Time;
 
 public class LocalDate {
 //   Methods of Java LocalDate

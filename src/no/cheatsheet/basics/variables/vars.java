@@ -23,6 +23,8 @@ public class vars {
     //Can be converted to boolean
     //Boolean.valueOf(string) - returns true/false
 
+    // ENUM
+
 
 
     String number = "42";

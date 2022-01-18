@@ -1,4 +1,4 @@
 package no.cheatsheet.string;
 
-public class stringBuilder {
+public class StringBuffer {
 }

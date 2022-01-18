@@ -1,4 +1,4 @@
-package no.cheatsheet.exceptionHandling.trycatchfinally;
+package no.cheatsheet.exceptionHandling;
 
 import java.util.Scanner;
 
