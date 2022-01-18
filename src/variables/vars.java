@@ -3,14 +3,38 @@ package variables;
 public class vars {
 
     //Numbers
-    int i = 9, ii = 10;
-    float f = 20;
+    int i = 9, ii = 10; //Int can be cast to double
+    // An integer can contain whole numbers whose values lie between -2147483648 and 2147483647.
+    //Integer.valueOf() | Integer.parseInt()
+
+
+    double d = 0.1;
+    //Double.valueOf() | Double.parseDouble()
+
+    float f = 20; //Cannot be cast to int
+    //Float.valueOf() | Float.parseFloat()
 
     String s = "String";
+    //
 
     char c = 'c';
-    boolean b = true;
 
+    boolean b = true;
+    //Can be converted to boolean
+    //Boolean.valueOf(string) - returns true/false
+
+
+
+    String number = "42";
+    int iNumber = Integer.valueOf(number); // or Double.valueOf
+
+//    Integer.parseInt()	                                                                            Integer.valueOf()
+//    It can only take a String as a parameter.	                                                        It can take a String as well as an integer as parameter.
+//    It returns a primitive int value.	                                                                It returns an Integer object.
+//    When an integer is passed as parameter, it produces an error due to incompatible types	        When an integer is passed as parameter, it returns an Integer object corresponding to the given parameter.
+//    This method produces an error(incompatible types) when a character is passed as parameter.	    This method can take a character as parameter and will return the corresponding unicode.
+//    This lags behind in terms of performance.                                                         This method is likely to yield significantly better space and time performance by caching frequently requested values.
+//    If we need the primitive int datatype then Integer.parseInt() method is to be used.	            If Wrapper Integer object is needed then valueOf() method is to be used.
 }
 
 /*
