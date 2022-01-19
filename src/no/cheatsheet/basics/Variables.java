@@ -1,6 +1,6 @@
-package no.cheatsheet.basics.variables;
+package no.cheatsheet.basics;
 
-public class vars {
+public class Variables {
 
     //Numbers
     int i = 9, ii = 10; //Int can be cast to double
@@ -23,7 +23,9 @@ public class vars {
     //Can be converted to boolean
     //Boolean.valueOf(string) - returns true/false
 
-    // ENUM
+    public enum BILER {
+        TOYOTA, OPEL, SUBARU;
+    }
 
 
 

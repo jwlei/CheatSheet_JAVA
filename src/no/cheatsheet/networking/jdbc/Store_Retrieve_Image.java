@@ -1,4 +1,4 @@
-package no.cheatsheet.jdbc;
+package no.cheatsheet.networking.jdbc;
 
 public class Store_Retrieve_Image {
 }

@@ -1,6 +1,6 @@
-package no.cheatsheet.basics.namingconventions;
+package no.cheatsheet.basics;
 
-public class namingConvention {
+public class NamingConventions {
     // Packages
     //  com, edu, gov, mil, net, org
     //  or

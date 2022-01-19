@@ -1,6 +1,6 @@
-package no.cheatsheet.basics.operands;
+package no.cheatsheet.basics;
 
-public class operands {
+public class Operands {
 //    Arithmetic Operators    ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 //        + (Addition) 	    Adds values on either side of the operator. 	                        A + B will give 30
 //        - (Subtraction) 	Subtracts right-hand operand from left-hand operand. 	                A - B will give -10
