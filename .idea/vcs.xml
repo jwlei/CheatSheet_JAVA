@@ -4,6 +4,5 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../CodeWars" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../DAT108" vcs="" />
-    <mapping directory="$PROJECT_DIR$/../MOOC.fi" vcs="Git" />
   </component>
 </project>

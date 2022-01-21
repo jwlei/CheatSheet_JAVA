@@ -1,11 +1,12 @@
 package no.cheatsheet.arrays;
 
+@SuppressWarnings("MismatchedReadAndWriteOfArray")
 public class Arrays {
-    public static NormalArray {
+    public class NormalArray {
 
     }
 
-    public static MultiDimensionalArray {
+    public void MultiDimensionalArray() {
 
         boolean[][] audp;
 
@@ -22,12 +23,13 @@ public class Arrays {
                         {true, true, true, true}, // rad 3
                 };
 
-        // avlese en verdi
+        // Read a value
         boolean plass12 = aud[1][2];
         System.out.println(plass12);
 
 
-        // skrive ut en rad
+        // Print a row
+        boolean[] rad0 = new boolean[5];
         for (int p = 0; p < rad0.length; p++) {
 
             boolean plass = rad0[p];
@@ -63,7 +65,7 @@ public class Arrays {
 //        sTab[1] = new Student(11, "Kari", "Nilsen");
 //        sTab[2] = new Student (15, "Nils", "Nilsen");
 //
-//        // Skrive ut alle objekta
+//        // Print all objects
 //		for (Student s : sTab) {
 //            s.skrivUt();
 //        }

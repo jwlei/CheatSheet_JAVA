@@ -1,4 +1,4 @@
-package no.cheatsheet.loopsniteration;
+package no.cheatsheet.loopsniteration.streams;
 
 public class Stream {
 //    Stream provides following features:

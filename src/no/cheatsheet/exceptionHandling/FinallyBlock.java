@@ -15,7 +15,7 @@ public class FinallyBlock {
             FileNotFoundException e = new FileNotFoundException("file not found");
             throw e;
         } catch (FileNotFoundException e) {
-            System.out.println("cought FileNotFoundException");
+            System.out.println("caught FileNotFoundException");
         } finally {
             System.out.println("Finally runs even if we dont catch runtimeException");
         }
